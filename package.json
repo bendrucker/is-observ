@@ -1,0 +1,28 @@
+{
+  "name": "is-observ",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Detect if a value is an observ",
+  "license": "MIT",
+  "repository": "bendrucker/is-observ",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "observ",
+    "observable"
+  ],
+  "devDependencies": {
+    "observ": "~0.2.0",
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
