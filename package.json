@@ -1,7 +1,7 @@
 {
   "name": "is-observ",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Detect if a value is an observ",
   "license": "MIT",
   "repository": "bendrucker/is-observ",
