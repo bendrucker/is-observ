@@ -1,4 +1,4 @@
-# is-observ [![Build Status](https://travis-ci.org/bendrucker/is-observ.svg?branch=master)](https://travis-ci.org/bendrucker/is-observ)
+# is-observ [![Build Status](https://travis-ci.org/bendrucker/is-observ.svg?branch=master)](https://travis-ci.org/bendrucker/is-observ) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/is-observ.svg)](https://greenkeeper.io/)
 
 > Detect if a value is an [observ](https://github.com/raynos/observ)
 
